@@ -1,4 +1,4 @@
-# COCO_Zebra
+# COCO-zebra
 Example of a generative adversarial network (GAN).
 Restoring the image of a zebra from a mask.
 COCO dataset used.
